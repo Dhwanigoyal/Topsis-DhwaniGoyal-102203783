@@ -13,12 +13,11 @@ The Topsis package offers:
 
 You can install the package directly from PyPI using pip:
 
-pip install Topsis-Dhwani-102203783
+pip install Topsis-Dhwani-102203783==1.0.1
 
-## Usage
+## Link
 
-To use the package:
-python Topsis-Dhwani-102203783.py 102203783-data.csv "1,1,1,2" "+,+,-,+" 102203783-result.csv
+https://pypi.org/project/Topsis-Dhwani-102203783/1.0.1/
 
 
 ## Author
